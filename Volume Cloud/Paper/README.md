@@ -1,1 +1,3 @@
+My implementation is based on these papers. 
 
+I have done most of them, but there still some details have to work with. Like using the blue noise to add more details to the edge of the cloud. And also the edge glow...
