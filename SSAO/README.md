@@ -1,8 +1,3 @@
 Screen-space Ambient Occlusion, to do random samples in a half sphere use a random vector, the to get average to get the occlusion value.
 
-![image](https://user-images.githubusercontent.com/56297955/145012149-8722699a-f8d8-4830-b897-b636fdc96a9a.png)
-
-
-![image](https://user-images.githubusercontent.com/56297955/145006320-88560818-bfdd-47d0-9548-0bb7adeee76b.png)
-
-
+![image](https://user-images.githubusercontent.com/56297955/146318320-0a6d7a0c-ee5c-4d47-86de-25524ce2265f.png)
